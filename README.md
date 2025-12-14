@@ -93,7 +93,7 @@ src/
 
 ## License
 
-This project is private and not licensed for public use.
+This project is licensed for public use.
 
 ## Contact
 
